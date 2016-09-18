@@ -1,0 +1,7 @@
+pwd
+ls
+ls -a
+pwd
+multi nested.txt
+pwd
+pwd
